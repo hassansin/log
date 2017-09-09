@@ -20,7 +20,6 @@ func init() {
 	zerolog.MessageFieldName = "@message"
 }
 func Init(app string, debug bool) {
-
 	if debug {
 		Logger = Logger.Level(zerolog.DebugLevel)
 	}

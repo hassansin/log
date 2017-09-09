@@ -1,7 +1,0 @@
-[[constraint]]
-  name = "github.com/rs/zerolog"
-  revision = "d76a89fffcb0cdd0b006d05ec66d268eb1f0e819"
-
-[[constraint]]
-  name = "github.com/rs/xid"
-  version = "1.1.0"
